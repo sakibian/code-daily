@@ -4,9 +4,10 @@ Track personal code practice.
 
 ### Day.1
 
+- Datatype
 - Accessor methods
 
 ### Day.2
 
-- Datatype
 - Mutator methods
+- Arrow function
