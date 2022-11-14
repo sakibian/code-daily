@@ -11,3 +11,7 @@ Track personal code practice.
 
 - Mutator methods
 - Arrow function
+
+### Day.3
+
+- Iteration methods
