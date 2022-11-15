@@ -2,16 +2,20 @@
 
 Track personal code practice.
 
-### Day.1
+### Day - 1
 
 - Datatype
 - Accessor methods
 
-### Day.2
+### Day - 2
 
 - Mutator methods
 - Arrow function
 
-### Day.3
+### Day - 3
 
 - Iteration methods
+
+### Day - 4
+
+- Objects
