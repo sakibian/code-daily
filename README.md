@@ -27,3 +27,7 @@ Track personal code practice.
 ### Day - 6
 
 - Events
+
+### Day - 7
+
+- JSON in JavaScript (How to work with JSON.)
