@@ -31,3 +31,7 @@ Track personal code practice.
 ### Day - 7
 
 - JSON in JavaScript (How to work with JSON.)
+
+### Day - 8
+
+- Conditional Statements in JavaScript
