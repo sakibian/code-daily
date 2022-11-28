@@ -34,4 +34,8 @@ Track personal code practice.
 
 ### Day - 8
 
-- Conditional Statements in JavaScript
+- If Else Statements in JavaScript
+
+### Day - 9
+
+- Switch Statements in JavaScript
