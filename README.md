@@ -39,3 +39,11 @@ Track personal code practice.
 ### Day - 9
 
 - Switch Statements in JavaScript
+
+### Day - 10
+
+- While Loops
+- Do...While Loops
+- For Loops
+- For..Of Loops
+- For..In
