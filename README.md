@@ -51,3 +51,7 @@ Track personal code practice.
 ### Day - 11
 
 - Define Function
+
+### Day - 12
+
+- Prototypes and Inheritance
