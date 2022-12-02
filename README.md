@@ -55,3 +55,4 @@ Track personal code practice.
 ### Day - 12
 
 - Prototypes and Inheritance
+- Classes [ Constructor, Class Constructor ]
