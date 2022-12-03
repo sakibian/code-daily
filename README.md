@@ -56,3 +56,7 @@ Track personal code practice.
 
 - Prototypes and Inheritance
 - Classes [ Constructor, Class Constructor ]
+
+### Day - 13
+
+- Object Methods
