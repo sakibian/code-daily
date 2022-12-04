@@ -60,3 +60,7 @@ Track personal code practice.
 ### Day - 13
 
 - Object Methods
+
+### Day - 14
+
+- This, Bind, Call and Apply.
