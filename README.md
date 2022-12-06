@@ -64,3 +64,7 @@ Track personal code practice.
 ### Day - 14
 
 - This, Bind, Call and Apply.
+
+### Day - 15
+
+- Map and Set Objects
