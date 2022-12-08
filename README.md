@@ -68,3 +68,7 @@ Track personal code practice.
 ### Day - 15
 
 - Map and Set Objects
+
+### Day - 16
+
+- Generator Functions
