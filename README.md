@@ -72,3 +72,7 @@ Track personal code practice.
 ### Day - 16
 
 - Generator Functions
+
+### Day - 17
+
+- Default Parameters
