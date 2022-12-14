@@ -76,3 +76,7 @@ Track personal code practice.
 ### Day - 17
 
 - Default Parameters
+
+### Day - 18
+
+- Destructuring, Rest Parameters, and Spread Syntax
