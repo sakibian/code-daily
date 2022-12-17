@@ -103,4 +103,51 @@ const {
 
 console.log("Hello date", date);
 
-//* Spread - will start from here
+//* Spread
+// Spread with Arrays
+
+// Create an Array
+const tools = ['hammer', 'screwdriver']
+const otherTools = ['wrench', 'saw']
+
+// Concatenate tools and otherTools together
+const allTools = tools.concat(otherTools);
+console.log("Concatenate tools: ", allTools);
+// Unpack the tools Array into the allTools Array
+const allToolsTwo = [...tools, ...otherTools];
+console.log("Spread tools: ", allToolsTwo);
+
+// Array of users
+const users = [
+    {id: 1, name: "Nubair"},
+    {id: 2, name: "Nusair"},
+]
+// console.log("Users: 2 -> ",users);
+
+// A new user to be added 
+const newUser = {id: 3, name: "Sakib"}
+// users.push(newUser);
+// console.log("Users: 3 -> ",users);
+
+// Using spread in this case
+const updatedUsers = [...users, newUser];
+console.log(users)
+console.log(updatedUsers)
+
+// Create an Array
+const originalArray = ['one', 'two', 'three'];
+// console.log(originalArray);
+
+// Assign array to another variable
+const secondArray = originalArray;
+
+// Use spread to make a shallow copy
+const secondArray1 = [...originalArray];
+
+// Remove the last item of the second Array
+// secondArray.pop();
+secondArray1.pop();
+// console.log(secondArray);
+console.log(originalArray);
+
+// Search on chapter: If you write the same example code but copy
