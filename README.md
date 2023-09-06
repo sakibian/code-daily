@@ -5,6 +5,15 @@ Track personal code practice.
 ### After long Break - Day - 1 - Keep Consistency
 
 - Variables and data types
-### Day - 2 - Learning
+### Day - 2 - Skipped
+
+- Due to personal reason
+### Day - 3 - Short coding
 
 - Expressions and operators
+### Day - 4 - Operators
+
+- Assigning to properties
+- Destructuring 
+- Evaluation and nesting 
+- Comparison operators
