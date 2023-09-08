@@ -21,6 +21,6 @@ Expressions, Learned about Assigning to properties, Destructuring, Evaluation an
 Missed practice.
 
 ### R1D6
-Expressions, Learned about Arithmetic operators, // Bitwise operators, Logical operators from MDN. Will go through tomorrow to complete it.
+Learned about expressions: Arithmetic operators, Bitwise operators, Logical operators from MDN. Will go through tomorrow to complete it.
 
 [JavaScript Basics](https://github.com/sakibian/code-daily/commit/c706b555a63cb6d493e4cd5ef63e853e5bab4415)

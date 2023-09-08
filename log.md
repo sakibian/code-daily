@@ -43,7 +43,7 @@
 
 ### Day 6: September 08, 2023
 
-**Today's Progress**: Practicing.
+**Today's Progress**: Practicing expressions.
 
 **Thoughts:** I'm trying to do more I have to do this for my family.
 

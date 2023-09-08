@@ -17,3 +17,10 @@ Track personal code practice.
 - Destructuring 
 - Evaluation and nesting 
 - Comparison operators
+
+### Day - 5 - Missed
+### Day - 6 - Expressions
+
+- Arithmetic operators
+- Bitwise operators 
+- Logical operators 
