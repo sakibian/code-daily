@@ -17,3 +17,10 @@ Expressions and Operators, Learned about operand and operator from MDN. Will go 
 Expressions, Learned about Assigning to properties, Destructuring, Evaluation and nesting, Comparison operators from MDN. Will go through tomorrow to complete it.
 
 [JavaScript Basics](https://github.com/sakibian/code-daily/commit/92cd6b739dd01da0f5baafea2f6d4021902fe189)
+### R1D5
+Missed practice.
+
+### R1D6
+Expressions, Learned about Arithmetic operators, // Bitwise operators, Logical operators from MDN. Will go through tomorrow to complete it.
+
+[JavaScript Basics](https://github.com/sakibian/code-daily/commit/c706b555a63cb6d493e4cd5ef63e853e5bab4415)

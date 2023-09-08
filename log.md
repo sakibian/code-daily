@@ -27,7 +27,7 @@
 
 **Thoughts:** Will keep pushing myself every time while coding.
 
-### Day 4: September 05, 2023
+### Day 4: September 06, 2023
 
 **Today's Progress**: Learning more about assignment operators.
 
@@ -35,3 +35,16 @@
 
 **Link to work:** [JavaScript Basics](https://github.com/sakibian/code-daily/commit/92cd6b739dd01da0f5baafea2f6d4021902fe189)
 
+### Day 5: September 07, 2023
+
+**Today's Progress**: Missed the practice.
+
+**Thoughts:** I'm not doing enough.
+
+### Day 6: September 08, 2023
+
+**Today's Progress**: Practicing.
+
+**Thoughts:** I'm trying to do more I have to do this for my family.
+
+**Link to work:** [JavaScript Basics](https://github.com/sakibian/code-daily/commit/c706b555a63cb6d493e4cd5ef63e853e5bab4415)
