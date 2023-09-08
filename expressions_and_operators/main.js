@@ -154,3 +154,71 @@ console.log("< :", lessThen);
 
 let lessThenOrEqual = var1 <= var2;
 console.log("<= :", lessThenOrEqual);
+
+// Arithmetic operators
+
+let divide = 1 / 2;
+console.log(divide);
+let equalA = 1 / 2 === 1.0 / 2.0;
+console.log(equalA);
+
+// Bitwise operators
+let aBit = 10;
+let bBit = 20;
+
+let bAND = aBit & bBit;
+console.log("Bitwise AND: ", bAND);
+let bOR = aBit & bBit;
+console.log("Bitwise OR: ", bOR);
+
+let bXOR = aBit ^ bBit;
+console.log("Bitwise XOR: ", bXOR);
+
+let bNOT = ~aBit;
+console.log("Bitwise NOT: ", bNOT);
+
+let leftShift = aBit << bBit;
+console.log("Bitwise Left Shift: ", leftShift);
+
+let rightShift = aBit >> bBit;
+console.log("Bitwise right Shift: ", rightShift);
+
+let zeroRightShift = aBit >>> bBit;
+console.log("Bitwise Zero Right Shift: ", zeroRightShift);
+
+// Logical operators: example 1
+
+let logicalA = true;
+let logicalB = false;
+
+const logicalAND = logicalA && logicalB;
+console.log("Logical AND :", logicalAND);
+
+const logicalOR = logicalA || logicalB;
+console.log("Logical OR :", logicalOR);
+
+const logicalNOT = !logicalA;
+console.log("Logical NOT :", logicalNOT);
+
+// Logical operators: example 2
+
+const logical1 = true && true;
+console.log(logical1);
+
+const logical2 = true && false;
+console.log(logical2);
+
+const logical3 = false && true;
+console.log(logical3);
+
+const logical4 = false && 3 === 4;
+console.log(logical4);
+
+const logical5 = "cat" && "dog";
+console.log(logical5);
+
+const logical6 = false && "cat";
+console.log(logical6);
+
+const logical7 = "cat" && false;
+console.log(logical7);
