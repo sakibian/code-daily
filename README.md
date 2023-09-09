@@ -24,3 +24,10 @@ Track personal code practice.
 - Arithmetic operators
 - Bitwise operators 
 - Logical operators 
+### Day - 7 - Expressions
+
+- BigInt operators
+- String operators
+- Conditional (ternary) operator
+- Comma operator
+- Unary operators

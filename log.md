@@ -48,3 +48,10 @@
 **Thoughts:** I'm trying to do more I have to do this for my family.
 
 **Link to work:** [JavaScript Basics](https://github.com/sakibian/code-daily/commit/c706b555a63cb6d493e4cd5ef63e853e5bab4415)
+### Day 7: September 09, 2023
+
+**Today's Progress**: Practicing expressions.
+
+**Thoughts:** Trying to balance family work & my dev work, still struggling to overcome this or balance this, always something unexpected happens.
+
+**Link to work:** [JavaScript Basics](https://github.com/sakibian/code-daily/commit/08c72725098dcb0a0f36e0e8ed0e81a367a347aa)

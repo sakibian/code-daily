@@ -24,3 +24,7 @@ Missed practice.
 Learned about expressions: Arithmetic operators, Bitwise operators, Logical operators from MDN. Will go through tomorrow to complete it.
 
 [JavaScript Basics](https://github.com/sakibian/code-daily/commit/c706b555a63cb6d493e4cd5ef63e853e5bab4415)
+### R1D7
+Learned about expressions: BigInt operators, String operators, Conditional (ternary) operator, Comma operator, Unary operators from MDN. Will go through tomorrow to complete it. 
+
+[JavaScript Basics](https://github.com/sakibian/code-daily/commit/08c72725098dcb0a0f36e0e8ed0e81a367a347aa)
