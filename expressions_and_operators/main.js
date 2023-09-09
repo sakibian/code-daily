@@ -222,3 +222,64 @@ console.log(logical6);
 
 const logical7 = "cat" && false;
 console.log(logical7);
+
+// Logical operators: !(logical NOT)
+const n1 = !true;
+const n2 = !false;
+const n3 = !"cat";
+console.log("!(logical NOT): ", n1, n2, n3);
+
+// BigInt operators
+const bigA = 1n + 2n;
+console.log("BigIntA: ", bigA);
+
+const bigB = 1n / 2n;
+console.log("BigIntB: ", bigB);
+
+const bigC = 40000000000000000n >> 2n;
+console.log("BigIntC: ", bigC);
+
+// String operators
+console.log("my" + "string");
+
+let mystring = "alpha";
+mystring += "bet";
+console.log("mystring: ", mystring);
+
+// Conditional (ternary) operator
+// condition ? val1 : val2
+
+let age = 20;
+const status = age >= 18 ? "Adult" : "minor";
+console.log("Ternary: ", status);
+
+// Comma operator
+const CX = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
+const CA = [x, x, x, x, x];
+
+// don't get it, will get back here.
+//for (let i = 0, j = 9; i <= j; j++, j--) {
+// console.log("Loop: ", `a[${i}][${j}] = ${a[i][i]}`);
+// let loop1 = `a[${i}][${j}]`;
+// console.log(loop1);
+// let loop2 = `${a[i][j]}`;
+// console.log(loop2);
+//}
+
+// Unary operators
+// A unary operation is an operation with only one operand.
+
+// delete
+const myObj = {
+  name: "Sakib",
+  age: 31,
+  home: "19/Kho, Kazibari Masjid",
+};
+console.log(myObj);
+let del1 = delete myObj.name;
+let del2 = delete myObj[age];
+let del3 = delete myObj[0];
+console.log("delete: ", del1);
+console.log("delete: ", del2);
+console.log("delete: ", del3);
+console.log(myObj);
