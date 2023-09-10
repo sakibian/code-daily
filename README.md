@@ -31,3 +31,19 @@ Track personal code practice.
 - Conditional (ternary) operator
 - Comma operator
 - Unary operators
+
+
+### Day - 8 - Expressions completed
+
+- typeof
+- Relational operators
+- built-in objects
+- Custom objects
+- instanceof
+- this
+- Grouping operator
+- new
+- super
+
+- Practiced - JavaScript Tricks
+[Medium](https://javascript.plainenglish.io/some-simple-and-amazing-javascript-tricks-292e1962b1f6)

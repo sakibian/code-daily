@@ -55,3 +55,10 @@
 **Thoughts:** Trying to balance family work & my dev work, still struggling to overcome this or balance this, always something unexpected happens.
 
 **Link to work:** [JavaScript Basics](https://github.com/sakibian/code-daily/commit/08c72725098dcb0a0f36e0e8ed0e81a367a347aa)
+### Day 8: September 10, 2023
+
+**Today's Progress**: Completed expressions.
+
+**Thoughts:** I'm making progress that's what matter most, Will complete JS in this month.
+
+**Link to work:** [JavaScript Basics](https://github.com/sakibian/code-daily/commit/b3872238dd76214c9b7758c303f91f126f9b7618)
