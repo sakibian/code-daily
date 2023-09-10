@@ -283,3 +283,92 @@ console.log("delete: ", del1);
 console.log("delete: ", del2);
 console.log("delete: ", del3);
 console.log(myObj);
+
+// typeof
+const myFun = new Function("5 + 2");
+const shape = "circle";
+const size = 10;
+const foo10 = ["apple", "mango", "orange"];
+const today = new Date();
+
+console.log("typeof: ", typeof myFun);
+console.log("typeof: ", typeof shape);
+console.log("typeof: ", typeof size);
+console.log("typeof: ", typeof foo10);
+console.log("typeof: ", typeof today);
+console.log("typeof: ", typeof true);
+console.log("typeof: ", typeof null);
+console.log("typeof 62: ", typeof 62);
+console.log("typeof - H: ", typeof "Hello World!");
+console.log("typeof lastModified: ", typeof document.lastModified);
+console.log("typeof window.length: ", typeof window.length);
+console.log("typeof Math.LN2: ", typeof Math.LN2);
+
+// Relational operators
+// propNameOrNumber in objectName
+
+// Arrays
+const trees = ["redwood", "bay", "cedar", "oak", "maple"];
+
+console.log("relational 0:", 0 in trees);
+console.log("relational 3:", 3 in trees);
+console.log("relational 6:", 6 in trees);
+console.log("relational: bay", "bay" in trees); // (you must specify the index number, not the value at that index)
+
+console.log("relational length:", "length" in trees); // returns true (length is an Array property)
+
+// built-in objects
+console.log("relational PI:", "PI" in Math);
+const myString = new String("coral");
+console.log("length" in myString);
+
+// Custom objects
+const myCar = {
+  make: "Honda",
+  model: "Accord",
+  year: 1998,
+};
+
+console.log("make" in myCar);
+console.log("model" in myCar);
+
+// instanceof
+// objectName instanceof objectType;
+
+const theDay = new Date(1995, 12, 17);
+if (theDay instanceof Date) {
+  console.log("True");
+}
+
+// Basic expressions
+// this
+console.log(this["propertyName"]);
+console.log(this.propertyName);
+
+// Not Understood properly.
+function validate(obj, lowval, hival) {
+  if (obj.value < lowval || obj.value > hival) {
+    console.log("Invalid Value!");
+  }
+}
+
+// Grouping operator
+const groupA = 1;
+const groupB = 2;
+const groupC = 3;
+
+const defaultA = groupA + groupB * groupC;
+const evaluatedA = groupA + groupB * groupC;
+const additionA = (groupA + groupB) * groupC;
+const additionB = groupA * groupC + groupB * groupC;
+console.log("Grouping Op: ", defaultA);
+console.log("Grouping Op: ", evaluatedA);
+console.log("Grouping Op: ", additionA);
+console.log("Grouping Op: ", additionB);
+
+// new
+// const objectName = new ObjectType(param1, param2, paramN);
+
+// super
+// super(args);
+// super.functionOnParent(args);
