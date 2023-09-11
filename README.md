@@ -44,6 +44,15 @@ Track personal code practice.
 - Grouping operator
 - new
 - super
-
 - Practiced - JavaScript Tricks
+
 [Medium](https://javascript.plainenglish.io/some-simple-and-amazing-javascript-tricks-292e1962b1f6)
+### Day - 9 - Exercised from w3schools
+
+- JS Variables 
+- JS Operators 
+- JS Data Types 
+- JS Functions 
+- JS Objects 
+
+![Progress made](js-prepare-basic.png)

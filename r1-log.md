@@ -29,6 +29,10 @@ Learned about expressions: BigInt operators, String operators, Conditional (tern
 
 [JavaScript Basics](https://github.com/sakibian/code-daily/commit/08c72725098dcb0a0f36e0e8ed0e81a367a347aa)
 ### R1D8
-Completed expressions: learned about `typeof`, Relational operators, built-in objects, Custom objects, `instanceof`, `this`, Grouping operator, `new`, `super`  from MDN. Will go through tomorrow to complete it. 
+Completed expressions: Learned about `typeof`, Relational operators, built-in objects, Custom objects, `instanceof`, `this`, Grouping operator, `new`, `super`  from MDN. Will go through tomorrow to complete it. 
 
 [JavaScript Basics](https://github.com/sakibian/code-daily/commit/b3872238dd76214c9b7758c303f91f126f9b7618)
+### R1D9
+Exercised from w3schools: Taken test on `Variables`,`Operators`, `Data Types`, `Functions` `Objects` from w3schools. Will go through it tomorrow. 
+
+![Progress made](js-prepare-basic.png)
