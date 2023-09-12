@@ -56,3 +56,22 @@ Track personal code practice.
 - JS Objects 
 
 ![Progress made](js-prepare-basic.png)
+### Day - 10 - More exercising from w3schools
+
+- JS Events 
+- JS Strings 
+- JS String Methods 
+- JS Arrays 
+- JS Arrays Methods 
+- JS Array Sort 
+- JS Dates 
+- JS Math
+- JS Comparisons
+- JS Conditions
+- JS Switch
+- JS For Loops
+- JS While Loops
+- JS Break Loops
+- JS HTML DOM
+
+![Exercise complete](js-excercise-complete.png)

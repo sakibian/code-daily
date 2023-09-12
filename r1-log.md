@@ -36,3 +36,8 @@ Completed expressions: Learned about `typeof`, Relational operators, built-in ob
 Exercised from w3schools: Taken test on `Variables`,`Operators`, `Data Types`, `Functions` `Objects` from w3schools. Will go through it tomorrow. 
 
 ![Progress made](js-prepare-basic.png)
+
+### R1D10
+More exercising from w3schools: Taken test on `Events`,`Strings`, `String Methods`, `Arrays` `Arrays Methods`, `Array Sort`, `Dates`, `Math`, `Comparisons`, `Conditions`, `Switch`, `For Loops`, `While Loops`, `Break Loops`, `HTML DOM` from w3schools. Will go through it tomorrow. 
+
+![Exercise complete](js-excercise-complete.png)

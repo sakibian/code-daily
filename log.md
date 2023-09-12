@@ -57,8 +57,18 @@
 **Link to work:** [JavaScript Basics](https://github.com/sakibian/code-daily/commit/08c72725098dcb0a0f36e0e8ed0e81a367a347aa)
 ### Day 8: September 10, 2023
 
-**Today's Progress**: ***Started Exercising***.
+**Today's Progress**: ***Started exercising***.
 
 **Thoughts:** While typing `code` syntax looked familiar so enjoyed typing missing parts on w3schools.
 
 **Link to work:** [w3schools](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_events1)
+
+### Day 10: September 12, 2023
+
+**Today's Progress**: ***More exercising***.
+
+**Thoughts:** Exercised the questions answers part, some part have been familiar but forgot the syntax, had to peek on answer on few topics, still tried to be honest with self while answering for these topics: `Events`,`Strings`, `String Methods`, `Arrays` `Arrays Methods`, `Array Sort`, `Dates`, `Math`, `Comparisons`, `Conditions`, `Switch`, `For Loops`, `While Loops`, `Break Loops`, `HTML DOM`.
+
+TLD: Somehow date is misconfigured or have started with 0 and 1 serial that is the reason `Day` and `Date` does not match with previous history and [Round 1 Log](/r1-log.md).
+
+**Link to work:** [w3schools](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_dom_html9)
